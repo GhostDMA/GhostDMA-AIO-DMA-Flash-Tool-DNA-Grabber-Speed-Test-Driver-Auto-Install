@@ -1,4 +1,4 @@
-# GhostDMA Toolset (AIO DMA Tool - Flash Tool - DNA Grabber - Robust Speedtest - Drivers Auto Install)
+# GhostDMA Toolset (AIO DMA Tool - Auto Rerun Flash Tool - DNA Grabber - Robust Speedtest - Drivers Auto Install)
 Classy DMA Tool That Just Works
 
 Go to Releases To Download
