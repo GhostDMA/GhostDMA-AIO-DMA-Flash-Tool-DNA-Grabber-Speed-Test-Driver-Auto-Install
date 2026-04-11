@@ -16,6 +16,9 @@ Includes Glass Mode
 
 Release Notes
 
+
+---------------
+
 **Version 1.13**
 
 - Copy Speed Test Results Button
