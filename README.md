@@ -19,6 +19,11 @@ Release Notes
 
 ---------------
 
+**Version 1.14**
+- UI Improvements
+- Attracts Women
+
+
 **Version 1.13**
 
 - Copy Speed Test Results Button
