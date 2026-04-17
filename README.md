@@ -1,5 +1,5 @@
 # GhostDMA Toolset (DMA Auto Flash Tool - DNA Grabber - Robust Speedtest - Drivers Auto Install)
-DMA Tool That Just Works, Some May Say the Best DMA Tool                        ⬇️
+DMA Tool That Just Works, Some May Say the Best DMA Tool                        
 
 -------------------------------------------------------------------  !!!!!      Go to __Releases__ To Download                         ------->
 
