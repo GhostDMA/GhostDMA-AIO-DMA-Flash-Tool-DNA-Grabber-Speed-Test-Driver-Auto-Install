@@ -3,7 +3,7 @@ DMA Tool That Just Works, Some May Say the Best DMA Tool
 
 ------------------------------------------------------------------------------    Go to __Releases__ To Download                         ------->
 
-![A44DEA9E-DDD2-43CD-A233-9C217EC2C237](https://github.com/user-attachments/assets/45ee0735-bbfd-41b3-937b-3a95c084be7c)
+![A44DEA9E-DDD2-43CD-A233-9C217EC2C237]([(https://github.com/user-attachments/assets/dc846059-7338-4561-9eb0-9b1326028914))
 Includes Glass Mode
 
 
