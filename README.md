@@ -22,6 +22,11 @@ Release Notes
 
 ---------------
 
+**Version 1.15**
+- UI Improvements
+- Bug Fixes
+
+
 **Version 1.14**
 - UI Improvements
 - Attracts Women
