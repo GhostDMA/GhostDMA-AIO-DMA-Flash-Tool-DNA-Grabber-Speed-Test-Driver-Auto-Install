@@ -6,7 +6,7 @@ DMA Tool That Just Works, Some May Say the Best DMA Tool
 
 
 
-<img width="1062" height="1156" alt="Screenshot (319)" src="https://github.com/user-attachments/assets/659192f5-5f51-49fa-8e81-dcfccc687a64" />
+<img width="531" height="578" alt="Screenshot (319)" src="https://github.com/user-attachments/assets/659192f5-5f51-49fa-8e81-dcfccc687a64" />
 
 
 
