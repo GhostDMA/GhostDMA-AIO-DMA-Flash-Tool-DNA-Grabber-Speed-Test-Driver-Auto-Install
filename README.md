@@ -6,7 +6,8 @@ DMA Tool That Just Works, Some May Say the Best DMA Tool
 
 
 
-<img width="896" height="1017" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/77ca3928-d3d8-4c50-b6ee-4efc11fc2e97" />
+<img width="1062" height="1156" alt="Screenshot (319)" src="https://github.com/user-attachments/assets/659192f5-5f51-49fa-8e81-dcfccc687a64" />
+
 
 
 Includes Glass Mode
@@ -21,6 +22,11 @@ Release Notes
 
 
 ---------------
+
+**Version 1.16**
+- Flash Reruns Optimized
+- Bug Fixes
+
 
 **Version 1.15**
 - UI Improvements
